@@ -2,7 +2,7 @@
   "name": "githubpages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suraj0805.github.io/MySpace/",
+  "homepage": "https://suraj0805.github.io/SurajDevBlogs/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
