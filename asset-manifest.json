@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SurajDevBlog/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/SurajDevBlog/static/js/main.0a852a6c.chunk.js",
-    "main.js.map": "/SurajDevBlog/static/js/main.0a852a6c.chunk.js.map",
-    "runtime-main.js": "/SurajDevBlog/static/js/runtime-main.4771bab9.js",
-    "runtime-main.js.map": "/SurajDevBlog/static/js/runtime-main.4771bab9.js.map",
-    "static/js/2.70b1df2a.chunk.js": "/SurajDevBlog/static/js/2.70b1df2a.chunk.js",
-    "static/js/2.70b1df2a.chunk.js.map": "/SurajDevBlog/static/js/2.70b1df2a.chunk.js.map",
-    "static/js/3.da387375.chunk.js": "/SurajDevBlog/static/js/3.da387375.chunk.js",
-    "static/js/3.da387375.chunk.js.map": "/SurajDevBlog/static/js/3.da387375.chunk.js.map",
-    "index.html": "/SurajDevBlog/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/SurajDevBlog/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.70b1df2a.chunk.js.LICENSE.txt": "/SurajDevBlog/static/js/2.70b1df2a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/SurajDevBlog/static/media/logo.6ce24c58.svg"
+    "main.css": "/SurajDevBlogs/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/SurajDevBlogs/static/js/main.0a852a6c.chunk.js",
+    "main.js.map": "/SurajDevBlogs/static/js/main.0a852a6c.chunk.js.map",
+    "runtime-main.js": "/SurajDevBlogs/static/js/runtime-main.9032be29.js",
+    "runtime-main.js.map": "/SurajDevBlogs/static/js/runtime-main.9032be29.js.map",
+    "static/js/2.70b1df2a.chunk.js": "/SurajDevBlogs/static/js/2.70b1df2a.chunk.js",
+    "static/js/2.70b1df2a.chunk.js.map": "/SurajDevBlogs/static/js/2.70b1df2a.chunk.js.map",
+    "static/js/3.da387375.chunk.js": "/SurajDevBlogs/static/js/3.da387375.chunk.js",
+    "static/js/3.da387375.chunk.js.map": "/SurajDevBlogs/static/js/3.da387375.chunk.js.map",
+    "index.html": "/SurajDevBlogs/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/SurajDevBlogs/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.70b1df2a.chunk.js.LICENSE.txt": "/SurajDevBlogs/static/js/2.70b1df2a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SurajDevBlogs/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4771bab9.js",
+    "static/js/runtime-main.9032be29.js",
     "static/js/2.70b1df2a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.0a852a6c.chunk.js"
